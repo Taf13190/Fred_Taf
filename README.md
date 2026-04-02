@@ -1,19 +1,25 @@
-# 📊 Data Analyst spécialisé e-commerce
+# 📊 Data Analyst et gestion de projets high tech (Web, infrastructure, infogérence)
 
 Bienvenue sur mon portfolio !  
-Je suis Data Analyst spécialisé dans l’analyse de données e-commerce.  
+Je suis Data Analyst spécialisé dans l’analyse de données commerce, e-commerce et logistique.
+Je fais également de la gestion de projets web, étude et mise en place d'infrastructures réseaux complètes.
 
-🎯 **Mon objectif** : aider les boutiques en ligne à mieux comprendre leurs données pour augmenter leurs ventes et optimiser leurs performances.
+🎯 **Mon objectif** : vous aider à mieux comprendre vos données pour augmenter vos ventes et optimiser vos performances.
+Contribuer à gérer au mieux votre site internet sur les prestations d'hébergement de noms de domaines, hébergement de site internet et de vos mails.
+Je peux également prendre en charge la migration de votre SI en trouvant les solutions adaptées à l'évolution de votre infrastructure.
+
 
 ---
 
 ## 🚀 Compétences
 
 - Python (Pandas, Matplotlib)
-- SQL
+- SQL (SQL Serveur, MySQL, Oracle)
 - Power BI
-- Analyse de données e-commerce
+- Business Object
+- Formatage, Modélisation, Analyse de données et de flux de données
 - Data visualisation
+- Hard et Soft
 
 ---
 
@@ -22,15 +28,19 @@ Je suis Data Analyst spécialisé dans l’analyse de données e-commerce.
 ### 📊 Analyse des ventes e-commerce
 - Analyse du chiffre d’affaires, produits et clients  
 - Identification des meilleures performances  
-- Recommandations business  
+- Recommandations business
+- Analyse prédictive, points de sorties, budgets
 
 ### 📈 Dashboard interactif (Power BI)
 - Suivi des KPI (CA, panier moyen, top produits)  
 - Visualisations claires pour la prise de décision  
 
-### 🤖 Projet en cours : Machine Learning
+### 🤖 Projet en cours :
 - Prédiction des ventes  
-- Analyse du comportement client  
+- Analyse du comportement client
+- Bot de trading
+- Maintenance de sites internets
+- Migrations SI
 
 ---
 
@@ -38,7 +48,8 @@ Je suis Data Analyst spécialisé dans l’analyse de données e-commerce.
 
 - Power BI  
 - Python  
-- Jupyter Notebook  
+- Business Object
+- Office 365
 
 ---
 
@@ -47,13 +58,13 @@ Je suis Data Analyst spécialisé dans l’analyse de données e-commerce.
 - Analyse de vos ventes  
 - Création de dashboards  
 - Identification d’opportunités d’amélioration  
-- Automatisation de vos analyses  
+- Automatisation de vos analyses
+- Evolution de votre infrastructure SI (audit, etude, choix techniques, ...
 
 ---
 
 ## 📬 Me contacter
 
-- Disponible pour missions freelance  
-- LinkedIn : [Ton lien LinkedIn ici](https://www.linkedin.com/)  
+- LinkedIn : [[Ton lien LinkedIn ici](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-tafani-a67429128/?skipRedirect=true)  ]
 
 ⭐ N'hésitez pas à explorer mes projets !
